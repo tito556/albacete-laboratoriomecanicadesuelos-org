@@ -1,0 +1,62 @@
+# Laboratoriomecanicadesuelos — Albacete
+
+> Geotechnical engineering services in Albacete, España.
+
+## Services
+- [Aislacion Sismica](https://albacete.laboratoriomecanicadesuelos.org/aislacion-sismica/)
+- [Anclajes](https://albacete.laboratoriomecanicadesuelos.org/anclajes/)
+- [Calicatas](https://albacete.laboratoriomecanicadesuelos.org/calicatas/)
+- [Calicatas Exploratorias](https://albacete.laboratoriomecanicadesuelos.org/calicatas-exploratorias/)
+- [Cbr Vial](https://albacete.laboratoriomecanicadesuelos.org/cbr-vial/)
+- [Cimentaciones](https://albacete.laboratoriomecanicadesuelos.org/cimentaciones/)
+- [Cimentaciones Superficiales](https://albacete.laboratoriomecanicadesuelos.org/cimentaciones-superficiales/)
+- [Columnas Grava](https://albacete.laboratoriomecanicadesuelos.org/columnas-grava/)
+- [Densidad Cono Arena](https://albacete.laboratoriomecanicadesuelos.org/densidad-cono-arena/)
+- [Ensayo Cpt](https://albacete.laboratoriomecanicadesuelos.org/ensayo-cpt/)
+- [Ensayo Triaxial](https://albacete.laboratoriomecanicadesuelos.org/ensayo-triaxial/)
+- [Ensayos Proctor](https://albacete.laboratoriomecanicadesuelos.org/ensayos-proctor/)
+- [Estabilidad Taludes](https://albacete.laboratoriomecanicadesuelos.org/estabilidad-taludes/)
+- [Excavaciones Profundas](https://albacete.laboratoriomecanicadesuelos.org/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://albacete.laboratoriomecanicadesuelos.org/excavaciones-subterraneo/)
+- [Exploracion](https://albacete.laboratoriomecanicadesuelos.org/exploracion/)
+- [Geofisica](https://albacete.laboratoriomecanicadesuelos.org/geofisica/)
+- [Geotecnia Vial](https://albacete.laboratoriomecanicadesuelos.org/geotecnia-vial/)
+- [Granulometria](https://albacete.laboratoriomecanicadesuelos.org/granulometria/)
+- [Grouting](https://albacete.laboratoriomecanicadesuelos.org/grouting/)
+- [Inyecciones](https://albacete.laboratoriomecanicadesuelos.org/inyecciones/)
+- [Laboratorio In Situ](https://albacete.laboratoriomecanicadesuelos.org/laboratorio-in-situ/)
+- [Laboratorio Lab](https://albacete.laboratoriomecanicadesuelos.org/laboratorio-lab/)
+- [Licuefaccion](https://albacete.laboratoriomecanicadesuelos.org/licuefaccion/)
+- [Limites Atterberg](https://albacete.laboratoriomecanicadesuelos.org/limites-atterberg/)
+- [Losa De Cimentacion](https://albacete.laboratoriomecanicadesuelos.org/losa-de-cimentacion/)
+- [Losas Fundacion](https://albacete.laboratoriomecanicadesuelos.org/losas-fundacion/)
+- [Masw](https://albacete.laboratoriomecanicadesuelos.org/masw/)
+- [Masw Vs30](https://albacete.laboratoriomecanicadesuelos.org/masw-vs30/)
+- [Mejoramiento](https://albacete.laboratoriomecanicadesuelos.org/mejoramiento/)
+- [Microzonificacion Sismica](https://albacete.laboratoriomecanicadesuelos.org/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://albacete.laboratoriomecanicadesuelos.org/monitoreo-excavaciones/)
+- [Muros Contencion](https://albacete.laboratoriomecanicadesuelos.org/muros-contencion/)
+- [Pavimento Flexible](https://albacete.laboratoriomecanicadesuelos.org/pavimento-flexible/)
+- [Pavimento Rigido](https://albacete.laboratoriomecanicadesuelos.org/pavimento-rigido/)
+- [Permeabilidad Campo](https://albacete.laboratoriomecanicadesuelos.org/permeabilidad-campo/)
+- [Permeabilidad In Situ](https://albacete.laboratoriomecanicadesuelos.org/permeabilidad-in-situ/)
+- [Pilotes](https://albacete.laboratoriomecanicadesuelos.org/pilotes/)
+- [Placa De Carga](https://albacete.laboratoriomecanicadesuelos.org/placa-de-carga/)
+- [Refraccion Sismica](https://albacete.laboratoriomecanicadesuelos.org/refraccion-sismica/)
+- [Resistividad](https://albacete.laboratoriomecanicadesuelos.org/resistividad/)
+- [Sismica](https://albacete.laboratoriomecanicadesuelos.org/sismica/)
+- [Sondaje Spt](https://albacete.laboratoriomecanicadesuelos.org/sondaje-spt/)
+- [Sondajes Spt](https://albacete.laboratoriomecanicadesuelos.org/sondajes-spt/)
+- [Taludes](https://albacete.laboratoriomecanicadesuelos.org/taludes/)
+- [Tomografia Sismica](https://albacete.laboratoriomecanicadesuelos.org/tomografia-sismica/)
+- [Triaxial](https://albacete.laboratoriomecanicadesuelos.org/triaxial/)
+- [Tuneles Suelo Blando](https://albacete.laboratoriomecanicadesuelos.org/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://albacete.laboratoriomecanicadesuelos.org/vibrocompactacion/)
+- [Zapatas](https://albacete.laboratoriomecanicadesuelos.org/zapatas/)
+
+## Contact
+- Website: https://albacete.laboratoriomecanicadesuelos.org/
+
+## About
+This site provides geotechnical engineering services in Albacete, España.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
